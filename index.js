@@ -51,6 +51,6 @@ function reduceToAnyTrue(array) {
 }
 
 function reduceToTotal(array, startingPoint = 0) {
-    array.forEach(n => startingPoint += n);
+    array.forEach(tartingPoint += n);
     return startingPoint;
 }
